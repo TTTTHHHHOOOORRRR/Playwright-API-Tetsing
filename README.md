@@ -8,8 +8,8 @@ This is an assesment on how to perform API testing using Playwright with TypeScr
 - Git
 
 ## Tests Included
-- Get all objects
 - Create an object
+- Get all objects
 - Get an object by ID
 - Update an object
 - Delete an object
