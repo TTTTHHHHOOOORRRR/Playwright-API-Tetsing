@@ -16,14 +16,8 @@ This is an assesment on how to perform API testing using Playwright with TypeScr
 
 ## How to Run the Tests
 
-1. Install dependencies:
-   ```bash
-   npm install
+1. Install dependencies : npm install
 
-2. Install dependencies : npm install
+2. Install Playwright : npx playwright install
 
-3. Install Playwright : npx playwright install
-
-4. To run all the tests : npx playwright test
-
-5. To run a specfic tests : npx playwright test tests/apiCheck.test.ts
+3. To run all the tests : npx playwright test
